@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env-api/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.env
+*.pem
+.vscode/
